@@ -77,9 +77,18 @@ $ cat about_me.txt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TrevoCode&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=ffffff" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrevoCode&theme=github_dark" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevoCode&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=ffffff&langs_count=6" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TrevoCode&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TrevoCode&theme=github_dark" width="49%"/>
+
+</div>
+
+<div align="center">
+
+
+
+
 
 </div>
 
