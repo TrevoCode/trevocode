@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130">
+<rect width="900" height="130" fill="#000"/>
+<style>
+@keyframes fall{0%{transform:translateY(-130px)}100%{transform:translateY(260px)}}
+.m{font:bold 12px "Courier New",monospace;fill:#00ff41}
+</style>
+<g style="animation:fall 1.9s -3.6s linear infinite">
+<text class="m" x="17" y="-130">
+<tspan x="17" dy="0" fill="#ccffdd" font-weight="900">1</tspan><tspan x="17" dy="13" opacity="0.91">1</tspan><tspan x="17" dy="13" opacity="0.82">0</tspan><tspan x="17" dy="13" opacity="0.73">=</tspan><tspan x="17" dy="13" opacity="0.64">0</tspan><tspan x="17" dy="13" opacity="0.55">1</tspan><tspan x="17" dy="13" opacity="0.46">1</tspan><tspan x="17" dy="13" opacity="0.37">|</tspan><tspan x="17" dy="13" opacity="0.28">1</tspan><tspan x="17" dy="13" opacity="0.19">0</tspan>
+</text>
+</g>
+<g style="animation:fall 1.5s -1.3s linear infinite">
+<text class="m" x="51" y="-130">
+<tspan x="51" dy="0" fill="#ccffdd" font-weight="900">0</tspan><tspan x="51" dy="13" opacity="0.91">1</tspan><tspan x="51" dy="13" opacity="0.82">1</tspan><tspan x="51" dy="13" opacity="0.73">1</tspan><tspan x="51" dy="13" opacity="0.64">1</tspan><tspan x="51" dy="13" opacity="0.55">1</tspan><tspan x="51" dy="13" opacity="0.46">0</tspan><tspan x="51" dy="13" opacity="0.37">1</tspan><tspan x="51" dy="13" opacity="0.28">1</tspan><tspan x="51" dy="13" opacity="0.19">1</tspan>
+</text>
+</g>
+<g style="animation:fall 1.7s -0.16s linear infinite">
+<text class="m" x="85" y="-130">
+<tspan x="85" dy="0" fill="#ccffdd" font-weight="900">0</tspan><tspan x="85" dy="13" opacity="0.91">0</tspan><tspan x="85" dy="13" opacity="0.82">0</tspan><tspan x="85" dy="13" opacity="0.73">1</tspan><tspan x="85" dy="13" opacity="0.64">=</tspan><tspan x="85" dy="13" opacity="0.55">1</tspan><tspan x="85" dy="13" opacity="0.46">1</tspan><tspan x="85" dy="13" opacity="0.37">1</tspan><tspan x="85" dy="13" opacity="0.28">0</tspan><tspan x="85" dy="13" opacity="0.19">0</tspan>
+</text>
+</g>
+<g style="animation:fall 1.9s -0.37s linear infinite">
+<text class="m" x="119" y="-130">
+<tspan x="119" dy="0" fill="#ccffdd" font-weight="900">0</tspan><tspan x="119" dy="13" opacity="0.91">1</tspan><tspan x="119" dy="13" opacity="0.82">1</tspan><tspan x="119" dy="13" opacity="0.73">\</tspan><tspan x="119" dy="13" opacity="0.64">=</tspan><tspan x="119" dy="13" opacity="0.55">1</tspan><tspan x="119" dy="13" opacity="0.46">0</tspan><tspan x="119" dy="13" opacity="0.37">1</tspan><tspan x="119" dy="13" opacity="0.28">1</tspan><tspan x="119" dy="13" opacity="0.19">1</tspan>
+</text>
+</g>
+<g style="animation:fall 1.8s -0.89s linear infinite">
+<text class="m" x="153" y="-130">
+<tspan x="153" dy="0" fill="#ccffdd" font-weight="900">1</tspan><tspan x="153" dy="13" opacity="0.91">1</tspan><tspan x="153" dy="13" opacity="0.82">1</tspan><tspan x="153" dy="13" opacity="0.73">1</tspan><tspan x="153" dy="13" opacity="0.64">+</tspan><tspan x="153" dy="13" opacity="0.55">\</tspan><tspan x="153" dy="13" opacity="0.46">1</tspan><tspan x="153" dy="13" opacity="0.37">0</tspan><tspan x="153" dy="13" opacity="0.28">0</tspan><tspan x="153" dy="13" opacity="0.19">0</tspan>
+</text>
+</g>
+<g style="animation:fall 1.5s -1.54s linear infinite">
+<text class="m" x="187" y="-130">
+<tspan x="187" dy="0" fill="#ccffdd" font-weight="900">0</tspan><tspan x="187" dy="13" opacity="0.91">1</tspan><tspan x="187" dy="13" opacity="0.82">1</tspan><tspan x="187" dy="13" opacity="0.73">\</tspan><tspan x="187" dy="13" opacity="0.64">0</tspan><tspan x="187" dy="13" opacity="0.55">0</tspan><tspan x="187" dy="13" opacity="0.46">0</tspan><tspan x="187" dy="13" opacity="0.37">0</tspan><tspan x="187" dy="13" opacity="0.28">1</tspan><tspan x="187" dy="13" opacity="0.19">0</tspan>
+</text>
+</g>
+<g style="animation:fall 2.3s -2.28s linear infinite">
+<text class="m" x="221" y="-130">
+<tspan x="221" dy="0" fill="#ccffdd" font-weight="900">1</tspan><tspan x="221" dy="13" opacity="0.91">0</tspan><tspan x="221" dy="13" opacity="0.82">1</tspan><tspan x="221" dy="13" opacity="0.73">1</tspan><tspan x="221" dy="13" opacity="0.64">/</tspan><tspan x="221" dy="13" opacity="0.55">0</tspan><tspan x="221" dy="13" opacity="0.46">1</tspan><tspan x="221" dy="13" opacity="0.37">1</tspan><tspan x="221" dy="13" opacity="0.28">0</tspan><tspan x="221" dy="13" opacity="0.19">0</tspan>
+</text>
+</g>
+<g style="animation:fall 2.5s -1.93s linear infinite">
+<text class="m" x="255" y="-130">
+<tspan x="255" dy="0" fill="#ccffdd" font-weight="900">0</tspan><tspan x="255" dy="13" opacity="0.91">1</tspan><tspan x="255" dy="13" opacity="0.82">1</tspan><tspan x="255" dy="13" opacity="0.73">0</tspan><tspan x="255" dy="13" opacity="0.64">0</tspan><tspan x="255" dy="13" opacity="0.55">1</tspan><tspan x="255" dy="13" opacity="0.46">\</tspan><tspan x="255" dy="13" opacity="0.37">1</tspan><tspan x="255" dy="13" opacity="0.28">1</tspan><tspan x="255" dy="13" opacity="0.19">0</tspan>
+</text>
+</g>
+<g style="animation:fall 1.6s -2.36s linear infinite">
+<text class="m" x="289" y="-130">
+<tspan x="289" dy="0" fill="#ccffdd" font-weight="900">1</tspan><tspan x="289" dy="13" opacity="0.91">1</tspan><tspan x="289" dy="13" opacity="0.82">\</tspan><tspan x="289" dy="13" opacity="0.73">1</tspan><tspan x="289" dy="13" opacity="0.64">0</tspan><tspan x="289" dy="13" opacity="0.55">0</tspan><tspan x="289" dy="13" opacity="0.46">1</tspan><tspan x="289" dy="13" opacity="0.37">1</tspan><tspan x="289" dy="13" opacity="0.28">0</tspan><tspan x="289" dy="13" opacity="0.19">1</tspan>
+</text>
+</g>
+<g style="animation:fall 2.2s -1.23s linear infinite">
+<text class="m" x="323" y="-130">
+<tspan x="323" dy="0" fill="#ccffdd" font-weight="900">0</tspan><tspan x="323" dy="13" opacity="0.91">0</tspan><tspan x="323" dy="13" opacity="0.82">0</tspan><tspan x="323" dy="13" opacity="0.73">0</tspan><tspan x="323" dy="13" opacity="0.64">1</tspan><tspan x="323" dy="13" opacity="0.55">1</tspan><tspan x="323" dy="13" opacity="0.46">1</tspan><tspan x="323" dy="13" opacity="0.37">1</tspan><tspan x="323" dy="13" opacity="0.28">0</tspan><tspan x="323" dy="13" opacity="0.19">0</tspan>
+</text>
+</g>
+<g style="animation:fall 1.4s -1.36s linear infinite">
+<text class="m" x="357" y="-130">
+<tspan x="357" dy="0" fill="#ccffdd" font-weight="900">1</tspan><tspan x="357" dy="13" opacity="0.91">0</tspan><tspan x="357" dy="13" opacity="0.82">0</tspan><tspan x="357" dy="13" opacity="0.73">0</tspan><tspan x="357" dy="13" opacity="0.64">1</tspan><tspan x="357" dy="13" opacity="0.55">0</tspan><tspan x="357" dy="13" opacity="0.46">=</tspan><tspan x="357" dy="13" opacity="0.37">1</tspan><tspan x="357" dy="13" opacity="0.28">0</tspan><tspan x="357" dy="13" opacity="0.19">0</tspan>
+</text>
+</g>
+<g style="animation:fall 2.5s -4.3s linear infinite">
+<text class="m" x="391" y="-130">
+<tspan x="391" dy="0" fill="#ccffdd" font-weight="900">1</tspan><tspan x="391" dy="13" opacity="0.91">1</tspan><tspan x="391" dy="13" opacity="0.82">1</tspan><tspan x="391" dy="13" opacity="0.73">1</tspan><tspan x="391" dy="13" opacity="0.64">1</tspan><tspan x="391" dy="13" opacity="0.55">1</tspan><tspan x="391" dy="13" opacity="0.46">0</tspan><tspan x="391" dy="13" opacity="0.37">/</tspan><tspan x="391" dy="13" opacity="0.28">1</tspan><tspan x="391" dy="13" opacity="0.19">1</tspan>
+</text>
+</g>
+<g style="animation:fall 1.7s -0.23s linear infinite">
+<text class="m" x="425" y="-130">
+<tspan x="425" dy="0" fill="#ccffdd" font-weight="900">1</tspan><tspan x="425" dy="13" opacity="0.91">0</tspan><tspan x="425" dy="13" opacity="0.82">0</tspan><tspan x="425" dy="13" opacity="0.73">1</tspan><tspan x="425" dy="13" opacity="0.64">1</tspan><tspan x="425" dy="13" opacity="0.55">1</tspan><tspan x="425" dy="13" opacity="0.46">0</tspan><tspan x="425" dy="13" opacity="0.37">0</tspan><tspan x="425" dy="13" opacity="0.28">1</tspan><tspan x="425" dy="13" opacity="0.19">=</tspan>
+</text>
+</g>
+<g style="animation:fall 1.5s -2.85s linear infinite">
+<text class="m" x="459" y="-130">
+<tspan x="459" dy="0" fill="#ccffdd" font-weight="900">1</tspan><tspan x="459" dy="13" opacity="0.91">0</tspan><tspan x="459" dy="13" opacity="0.82">1</tspan><tspan x="459" dy="13" opacity="0.73">0</tspan><tspan x="459" dy="13" opacity="0.64">1</tspan><tspan x="459" dy="13" opacity="0.55">0</tspan><tspan x="459" dy="13" opacity="0.46">0</tspan><tspan x="459" dy="13" opacity="0.37">1</tspan><tspan x="459" dy="13" opacity="0.28">/</tspan><tspan x="459" dy="13" opacity="0.19">1</tspan>
+</text>
+</g>
+<g style="animation:fall 1.5s -2.55s linear infinite">
+<text class="m" x="493" y="-130">
+<tspan x="493" dy="0" fill="#ccffdd" font-weight="900">1</tspan><tspan x="493" dy="13" opacity="0.91">/</tspan><tspan x="493" dy="13" opacity="0.82">/</tspan><tspan x="493" dy="13" opacity="0.73">1</tspan><tspan x="493" dy="13" opacity="0.64">1</tspan><tspan x="493" dy="13" opacity="0.55">1</tspan><tspan x="493" dy="13" opacity="0.46">0</tspan><tspan x="493" dy="13" opacity="0.37">1</tspan><tspan x="493" dy="13" opacity="0.28">0</tspan><tspan x="493" dy="13" opacity="0.19">/</tspan>
+</text>
+</g>
+<g style="animation:fall 2.5s -0.81s linear infinite">
+<text class="m" x="527" y="-130">
+<tspan x="527" dy="0" fill="#ccffdd" font-weight="900">1</tspan><tspan x="527" dy="13" opacity="0.91">1</tspan><tspan x="527" dy="13" opacity="0.82">+</tspan><tspan x="527" dy="13" opacity="0.73">1</tspan><tspan x="527" dy="13" opacity="0.64">1</tspan><tspan x="527" dy="13" opacity="0.55">=</tspan><tspan x="527" dy="13" opacity="0.46">1</tspan><tspan x="527" dy="13" opacity="0.37">+</tspan><tspan x="527" dy="13" opacity="0.28">1</tspan><tspan x="527" dy="13" opacity="0.19">1</tspan>
+</text>
+</g>
+<g style="animation:fall 2.5s -4.23s linear infinite">
+<text class="m" x="561" y="-130">
+<tspan x="561" dy="0" fill="#ccffdd" font-weight="900">+</tspan><tspan x="561" dy="13" opacity="0.91">1</tspan><tspan x="561" dy="13" opacity="0.82">0</tspan><tspan x="561" dy="13" opacity="0.73">0</tspan><tspan x="561" dy="13" opacity="0.64">0</tspan><tspan x="561" dy="13" opacity="0.55">=</tspan><tspan x="561" dy="13" opacity="0.46">=</tspan><tspan x="561" dy="13" opacity="0.37">|</tspan><tspan x="561" dy="13" opacity="0.28">1</tspan><tspan x="561" dy="13" opacity="0.19">0</tspan>
+</text>
+</g>
+<g style="animation:fall 2.3s -3.73s linear infinite">
+<text class="m" x="595" y="-130">
+<tspan x="595" dy="0" fill="#ccffdd" font-weight="900">0</tspan><tspan x="595" dy="13" opacity="0.91">1</tspan><tspan x="595" dy="13" opacity="0.82">1</tspan><tspan x="595" dy="13" opacity="0.73">0</tspan><tspan x="595" dy="13" opacity="0.64">0</tspan><tspan x="595" dy="13" opacity="0.55">+</tspan><tspan x="595" dy="13" opacity="0.46">\</tspan><tspan x="595" dy="13" opacity="0.37">0</tspan><tspan x="595" dy="13" opacity="0.28">1</tspan><tspan x="595" dy="13" opacity="0.19">1</tspan>
+</text>
+</g>
+<g style="animation:fall 2.6s -1.45s linear infinite">
+<text class="m" x="629" y="-130">
+<tspan x="629" dy="0" fill="#ccffdd" font-weight="900">0</tspan><tspan x="629" dy="13" opacity="0.91">0</tspan><tspan x="629" dy="13" opacity="0.82">0</tspan><tspan x="629" dy="13" opacity="0.73">0</tspan><tspan x="629" dy="13" opacity="0.64">0</tspan><tspan x="629" dy="13" opacity="0.55">1</tspan><tspan x="629" dy="13" opacity="0.46">1</tspan><tspan x="629" dy="13" opacity="0.37">0</tspan><tspan x="629" dy="13" opacity="0.28">0</tspan><tspan x="629" dy="13" opacity="0.19">0</tspan>
+</text>
+</g>
+<g style="animation:fall 2.1s -0.83s linear infinite">
+<text class="m" x="663" y="-130">
+<tspan x="663" dy="0" fill="#ccffdd" font-weight="900">1</tspan><tspan x="663" dy="13" opacity="0.91">/</tspan><tspan x="663" dy="13" opacity="0.82">0</tspan><tspan x="663" dy="13" opacity="0.73">/</tspan><tspan x="663" dy="13" opacity="0.64">0</tspan><tspan x="663" dy="13" opacity="0.55">1</tspan><tspan x="663" dy="13" opacity="0.46">1</tspan><tspan x="663" dy="13" opacity="0.37">0</tspan><tspan x="663" dy="13" opacity="0.28">0</tspan><tspan x="663" dy="13" opacity="0.19">/</tspan>
+</text>
+</g>
+<g style="animation:fall 1.6s -1.39s linear infinite">
+<text class="m" x="697" y="-130">
+<tspan x="697" dy="0" fill="#ccffdd" font-weight="900">1</tspan><tspan x="697" dy="13" opacity="0.91">1</tspan><tspan x="697" dy="13" opacity="0.82">1</tspan><tspan x="697" dy="13" opacity="0.73">1</tspan><tspan x="697" dy="13" opacity="0.64">1</tspan><tspan x="697" dy="13" opacity="0.55">1</tspan><tspan x="697" dy="13" opacity="0.46">0</tspan><tspan x="697" dy="13" opacity="0.37">0</tspan><tspan x="697" dy="13" opacity="0.28">0</tspan><tspan x="697" dy="13" opacity="0.19">1</tspan>
+</text>
+</g>
+<g style="animation:fall 1.6s -1.89s linear infinite">
+<text class="m" x="731" y="-130">
+<tspan x="731" dy="0" fill="#ccffdd" font-weight="900">1</tspan><tspan x="731" dy="13" opacity="0.91">1</tspan><tspan x="731" dy="13" opacity="0.82">/</tspan><tspan x="731" dy="13" opacity="0.73">0</tspan><tspan x="731" dy="13" opacity="0.64">1</tspan><tspan x="731" dy="13" opacity="0.55">0</tspan><tspan x="731" dy="13" opacity="0.46">1</tspan><tspan x="731" dy="13" opacity="0.37">0</tspan><tspan x="731" dy="13" opacity="0.28">0</tspan><tspan x="731" dy="13" opacity="0.19">+</tspan>
+</text>
+</g>
+<g style="animation:fall 2.5s -4.67s linear infinite">
+<text class="m" x="765" y="-130">
+<tspan x="765" dy="0" fill="#ccffdd" font-weight="900">1</tspan><tspan x="765" dy="13" opacity="0.91">0</tspan><tspan x="765" dy="13" opacity="0.82">1</tspan><tspan x="765" dy="13" opacity="0.73">1</tspan><tspan x="765" dy="13" opacity="0.64">0</tspan><tspan x="765" dy="13" opacity="0.55">1</tspan><tspan x="765" dy="13" opacity="0.46">0</tspan><tspan x="765" dy="13" opacity="0.37">|</tspan><tspan x="765" dy="13" opacity="0.28">1</tspan><tspan x="765" dy="13" opacity="0.19">0</tspan>
+</text>
+</g>
+<g style="animation:fall 1.8s -1.96s linear infinite">
+<text class="m" x="799" y="-130">
+<tspan x="799" dy="0" fill="#ccffdd" font-weight="900">0</tspan><tspan x="799" dy="13" opacity="0.91">1</tspan><tspan x="799" dy="13" opacity="0.82">0</tspan><tspan x="799" dy="13" opacity="0.73">1</tspan><tspan x="799" dy="13" opacity="0.64">+</tspan><tspan x="799" dy="13" opacity="0.55">0</tspan><tspan x="799" dy="13" opacity="0.46">|</tspan><tspan x="799" dy="13" opacity="0.37">0</tspan><tspan x="799" dy="13" opacity="0.28">=</tspan><tspan x="799" dy="13" opacity="0.19">1</tspan>
+</text>
+</g>
+<g style="animation:fall 2.2s -2.25s linear infinite">
+<text class="m" x="833" y="-130">
+<tspan x="833" dy="0" fill="#ccffdd" font-weight="900">0</tspan><tspan x="833" dy="13" opacity="0.91">1</tspan><tspan x="833" dy="13" opacity="0.82">0</tspan><tspan x="833" dy="13" opacity="0.73">1</tspan><tspan x="833" dy="13" opacity="0.64">1</tspan><tspan x="833" dy="13" opacity="0.55">1</tspan><tspan x="833" dy="13" opacity="0.46">/</tspan><tspan x="833" dy="13" opacity="0.37">1</tspan><tspan x="833" dy="13" opacity="0.28">1</tspan><tspan x="833" dy="13" opacity="0.19">0</tspan>
+</text>
+</g>
+<g style="animation:fall 2.4s -2.49s linear infinite">
+<text class="m" x="867" y="-130">
+<tspan x="867" dy="0" fill="#ccffdd" font-weight="900">/</tspan><tspan x="867" dy="13" opacity="0.91">0</tspan><tspan x="867" dy="13" opacity="0.82">1</tspan><tspan x="867" dy="13" opacity="0.73">1</tspan><tspan x="867" dy="13" opacity="0.64">0</tspan><tspan x="867" dy="13" opacity="0.55">1</tspan><tspan x="867" dy="13" opacity="0.46">0</tspan><tspan x="867" dy="13" opacity="0.37">0</tspan><tspan x="867" dy="13" opacity="0.28">|</tspan><tspan x="867" dy="13" opacity="0.19">0</tspan>
+</text>
+</g>
+</svg>
