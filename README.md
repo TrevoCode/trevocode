@@ -16,7 +16,7 @@ $ cat about_me.txt
 
 ```
 > Nome      :  Davi Rodrigues dos Santos Cariolano
-> Handle    :  @TrevoCode  
+> Handle    :  @TrevoCode
 > Base      :  Brasil 🇧🇷
 > Foco      :  Segurança da Informação · Back-end Java · Linux · ML
 > Objetivo  :  Ethical Hacking & Engenharia de Software
@@ -51,8 +51,6 @@ $ cat about_me.txt
 
 ## `> cat estou_aprendendo.log`
 
-<div align="center">
-
 ```
 [BOOT] Carregando módulos em progresso...
 
@@ -63,6 +61,8 @@ $ cat about_me.txt
 [░░░░░░░░░░]  Machine Learning — Algoritmos, modelos, engenharia de dados
 [██░░░░░░░░]  Back-end Java    — APIs REST, Spring Boot, boas práticas
 ```
+
+<div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=00FF41)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00FF41)
@@ -76,19 +76,17 @@ $ cat about_me.txt
 
 ## `> git stats --all-repos`
 
-> 🔄 *Os dados abaixo são escaneados automaticamente de todos os seus repositórios.*
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TrevoCode&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=ffffff&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TrevoCode&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=ffffff" width="49%"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevoCode&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=ffffff&langs_count=8&theme=chartreuse-dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevoCode&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=ffffff&langs_count=6" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TrevoCode&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888"/>
+<img src="https://streak-stats.demolab.com?user=TrevoCode&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888" width="100%"/>
 
 </div>
 
