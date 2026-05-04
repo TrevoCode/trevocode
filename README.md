@@ -124,4 +124,8 @@ Obrigado pela visita! Bora hackear o futuro juntos? 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer" width="100%"/>
 
+<img src="https://raw.githubusercontent.com/TrevoCode/TrevoCode/output/snake.svg" alt="Snake animation" />
+
+###
+
 </div>
